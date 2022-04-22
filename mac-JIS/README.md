@@ -24,6 +24,6 @@ http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele
 ## Extensions
 
 The original layout doesn't match with Japanese JIS keyboard.
-Here's the midified layout.
+Here's the modified one.
 
 ![](https://user-images.githubusercontent.com/997855/164650220-27fe5c7f-9172-4a8e-aef8-3974680330d6.png)
