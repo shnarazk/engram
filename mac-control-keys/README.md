@@ -24,7 +24,7 @@ http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele
 ## Extensions
 
 Since Engram has the center zone for symbol letters, combinations with Control key and them are dead.
-So I add alternatives to the farest letters as follows.
+So I added alternative places to the farest letters as follows.
 
 | key       | generated code |
 |-----------|----------------|
