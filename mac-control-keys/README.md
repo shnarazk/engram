@@ -28,12 +28,13 @@ So I added alternative places to the farest letters as follows.
 
 | key       | generated code |
 |-----------|----------------|
-| Control-' | ` |
-| Control-" | @ |
-| Control-, | \ |
-| Control-. | / |
-| Control-- | $ |
-| Control-? | # |
+| Control-' |     `     |
+| Control-" |     @     |
+| Control-, |     \     |
+| Control-. |     /     |
+| Control-- |     $     |
+| Control-? |     #     |
 
 Now the path delimiter is in the home position!
 
+**Warning: this does not work on standard terminal of macOS.** I use Alacritty.
