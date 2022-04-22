@@ -19,11 +19,21 @@ There are 2 layout options.
 Ukelele to create the layout:
 http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele
 
--------------
+----------
 
 ## Extensions
 
-The original layout doesn't match with Japanese JIS keyboard.
-Here's the midified layout.
+Since Engram has the center zone for symbol letters, combinations with Control key and them are dead.
+So I add alternatives to the farest letters as follows.
 
-![](https://user-images.githubusercontent.com/997855/164650220-27fe5c7f-9172-4a8e-aef8-3974680330d6.png)
+| key       | generated code |
+|-----------|----------------|
+| Control-' | ` |
+| Control-" | @ |
+| Control-, | \ |
+| Control-. | / |
+| Control-- | $ |
+| Control-? | # |
+
+Now the path delimiter is in the home position!
+
