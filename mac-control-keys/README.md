@@ -37,4 +37,4 @@ So I added alternative places to the farest letters as follows.
 
 Now the path delimiter is in the home position!
 
-**Warning: this does not work on standard terminal of macOS.** I use Alacritty.
+**Warning: this does not work on many programs including the standard terminal of macOS.** I use Alacritty.
