@@ -3,7 +3,7 @@
   "notes": "最高のキーマップ",
   "documentation": "\"This file is a QMK Configurator export. You can import this at <https://config.qmk.fm>. It can also be used directly with QMK's source code.\n\nTo setup your QMK environment check out the tutorial: <https://docs.qmk.fm/#/newbs>\n\nYou can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`\"\n",
   "keyboard": "ferris/sweep",
-  "keymap": "ferris_sweep_split_3x5_2_engram3x5_rev7",
+  "keymap": "ferris_sweep_split_3x5_2_engram3x5_rev72",
   "layout": "LAYOUT_split_3x5_2",
   "layers": [
     [
@@ -37,10 +37,10 @@
       "KC_M",
       "KC_F",
       "KC_TAB",
-      "MO(2)",
       "LT(1,KC_SPC)",
-      "LT(1,KC_ENT)",
-      "MO(4)"
+      "MO(2)",
+      "MO(4)",
+      "LT(1,KC_ENT)"
     ],
     [
       "KC_TRNS",
@@ -109,10 +109,10 @@
       "KC_NO",
       "KC_NO",
       "KC_SPC",
-      "KC_TRNS",
       "KC_NO",
-      "MO(3)",
-      "MO(6)"
+      "KC_TRNS",
+      "MO(6)",
+      "MO(3)"
     ],
     [
       "KC_TRNS",
@@ -181,10 +181,10 @@
       "KC_RGHT",
       "KC_DOT",
       "KC_SPC",
-      "MO(6)",
       "MO(5)",
-      "KC_NO",
-      "KC_TRNS"
+      "MO(6)",
+      "KC_TRNS",
+      "KC_NO"
     ],
     [
       "KC_TRNS",
