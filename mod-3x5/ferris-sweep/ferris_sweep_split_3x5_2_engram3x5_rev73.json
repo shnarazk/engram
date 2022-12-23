@@ -38,8 +38,8 @@
       "KC_F",
       "KC_TAB",
       "LT(1,KC_SPC)",
-      "LT(2,KC_SPC)",
-      "LT(4,KC_ENT)",
+      "MO(2)",
+      "MO(4)",
       "RSFT_T(KC_ENT)"
     ],
     [
@@ -106,7 +106,7 @@
       "KC_NO",
       "KC_NO",
       "KC_EXLM",
-      "KC_NO",
+      "KC_ENT",
       "KC_NO",
       "KC_SPC",
       "KC_NO",
