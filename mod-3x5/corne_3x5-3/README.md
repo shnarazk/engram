@@ -2,11 +2,9 @@
 
 ## Changelog
 
-- Revision 7.2
-    - relocate `space` and `return` key
-    - add `shift` on layer 0 and `control` on layer 1
-- Revision 7.2
-    - swap `MO(1)` and `return|space`
+- update to Revision 7.5
+- update to Revision 7.3
+- update to Revision 7.2
 - Revision 7
     - change the positions of `ESC`, `CapsLock`, `kana(かな)` and `ASCII(英数)`
     - layer 6 is modal now

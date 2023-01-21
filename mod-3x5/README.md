@@ -9,8 +9,13 @@ This is derived from [Engram-3x5_3 for Corne 3x5 #3](https://github.com/shnarazk
 
 ## Changelog
 
+- Revision 7.5
+    - (layer 0) replace `Enter` with `RShift` by holding and `Enter` by tapping
+    - (layer 0) replace `RShift` with `RControl` (the same setting with Ferris Sweep)
+- Revision 7.3
+    - (layer 0) add `RShift` to right thumb cluster
 - Revision 7.2
-    - swap `MO(1)` and `return|space`
+    - (layer 0) swap `MO(1)` and `return|space`
 - Revision 7
     - change the positions of `ESC`, `CapsLock`, `kana(かな)` and `ASCII(英数)`
     - layer 6 is modal now
