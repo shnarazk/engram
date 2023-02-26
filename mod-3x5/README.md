@@ -30,7 +30,7 @@ This is probably the final edition. Very satisfied.
 
 - Pinky fingers have letters only on their home positions! 🎉 
 - In many programming languages, `_` is a component of _word_ (_identifier_). So I put it on this layer. Also `-`. 
-- Of course, we need TAB for completing identifiers here.
+- Of course, we need TAB for completing identifiers in this layer.
 
 ![スクリーンショット 2022-12-11 9 06 31](https://user-images.githubusercontent.com/997855/206880422-7f797ab2-6c2e-414b-8a8d-813e8c9356e4.png)
 
