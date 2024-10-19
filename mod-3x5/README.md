@@ -9,6 +9,9 @@ This is derived from [Engram-3x5_3 for Corne 3x5 #3](https://github.com/shnarazk
 
 ## Changelog
 
+- Revision 7.6
+    - activate home row mods in the default layer
+    - swap かな and 英数
 - Revision 7.5
     - (layer 0) replace `Enter` with `RShift` by holding and `Enter` by tapping
     - (layer 0) replace `RShift` with `RControl` (the same setting with Ferris Sweep)
